@@ -1,0 +1,19 @@
+Day-19
+==========================================
+21/30 days coding challenge (30-12-24).
+===========================================
+NotesSociety
+================================================
+NotesSociety link: https://notessociety.netlify.app/
+
+=======================================================
+follow on WhatsApp group by website..
+https://chat.whatsapp.com/IbFLOvxqw5I9opfiS0PCg4
+============================================================
+"Motion Detection Alarm" 
+
+With this help you can detect motion, as soon as motion is detected the alarm will sound.
+#keep Safe
+#keep Secure
+ ===================================================
+
